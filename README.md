@@ -1,5 +1,5 @@
 # Blender2.8-RenderButton
-Adds a simple Render and Animation Button for Blender 2.80 
+Adds a simple Render and Animation Button for Blender 2.80   
 Should work with any Blender 2.80 beta version.  
 Only tested on Windows10 64bit. 
 
