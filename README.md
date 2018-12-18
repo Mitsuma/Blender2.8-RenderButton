@@ -8,8 +8,8 @@ Only tested on Windows10 64bit.
 
 It gets added at the bottom of the Render Properties windows, just move it up and save over the startup file to always have it up at the beginning.
 
-**This is a quick hackjob, should not cause any issue but use on your own risk.**
-Removing/Adding the addon does not seem to cause any issues.
+**This is a quick hackjob, should not cause any issue but use on your own risk.**  
+Removing/Adding the addon does not seem to cause any issues.  
 
-Not sure about licenses and stuff but feel free to edit/improve/share it as you like.
-Its not like this is some mega complex script or anything.
+Not sure about licenses and stuff but feel free to edit/improve/share it as you like.  
+Its not like this is some mega complex script or anything.  
