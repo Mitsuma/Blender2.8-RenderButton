@@ -1,7 +1,7 @@
 bl_info = {
 	"name": "Blender 2.8b RenderButtons",
 	"author": "Mitsuma",
-	"version": (0, 0, 1),
+	"version": (0, 0, 2),
 	"blender": (2, 80, 0),
 	"location": "Render Properties",
 	"description": "",
@@ -29,6 +29,13 @@ class AddRenderPanel(bpy.types.Panel):
 		row = layout.row(align=True)
 		row.operator("render.render", text="Render", icon='RENDER_STILL')
 		row.operator("render.render", text="Animation", icon='RENDER_ANIMATION').animation = True
+		
+		split = layout.split()
+
+		split.label(text="Display:")
+		row = split.row(align=True)
+		row.prop(rd, "display_mode", text="")
+		row.prop(rd, "use_lock_interface", icon_only=True)
 
 def register():
 	bpy.utils.register_class(AddRenderPanel)
