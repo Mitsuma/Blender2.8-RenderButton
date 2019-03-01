@@ -4,7 +4,7 @@ Should work with any Blender 2.80 beta version.
 Only tested on Windows10 64bit. 
 
 # Preview:
-![](https://i.imgur.com/6s4AqZ7.png)  
+![](https://i.imgur.com/rjlSLwS.png)  
 It gets added at the bottom of the Render Properties windows, just move it up and save over the startup file to always have it up at the beginning.
 
 # Installation:
