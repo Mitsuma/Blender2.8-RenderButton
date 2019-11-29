@@ -20,6 +20,7 @@ Done.
 Thanks to https://github.com/zocker-160 for the 2.81 fix attempt.
 Managed to make it work without having to go to settings.
 
+# Disclaimer
 **This is a quick hackjob, should not cause any issue but use on your own risk.**  
 Removing/Adding the addon does not seem to cause any issues.  
 If you open older files with it enabled, the panel will be at the bottom again!  
