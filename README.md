@@ -10,7 +10,7 @@ It gets added at the bottom of the Render Properties windows, just move it up an
 # Installation:
 ![](https://i.imgur.com/gKB98t6.png)  
 Download the AddRenderButton.py  
-**Please use the old 2.80 version for 2.80, 2.81 and up should work with the latest version.**
+**Please use the old 2.80 version for 2.80, 2.81 and up should work with the latest version.**  
 Open the Blender Preferences (Edit - Preferences...) and click "Install Add-on from File..."  
 Select the AddRenderButton.py  
 Save Preferences
